@@ -1,0 +1,25 @@
+{
+    "scan_settings": {
+        "deep_analysis_enabled": true,
+        "behavioral_monitoring": true,
+        "rootkit_detection": true,
+        "memory_analysis": true,
+        "network_deep_inspection": true
+    },
+    "thresholds": {
+        "high_cpu_threshold": 80,
+        "high_memory_threshold": 500,
+        "suspicious_connections": 10,
+        "threat_score_critical": 200,
+        "threat_score_high": 100
+    },
+    "monitoring": {
+        "realtime_interval": 3,
+        "deep_analysis_interval": 10,
+        "ioc_collection_interval": 30
+    },
+    "exclusions": {
+        "processes": ["svchost.exe", "services.exe", "system"],
+        "paths": ["C:\\Windows\\System32\\", "/usr/lib/"]
+    }
+}
