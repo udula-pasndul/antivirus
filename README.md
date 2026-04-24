@@ -61,24 +61,7 @@
 - **Automatic Updates** - Signature database updates (coming soon)
 - **Quarantine System** - Safe isolation of detected threats (coming soon)
 
----
 
-## 📸 Screenshots
-
-<div align="center">
-
-### Main Dashboard
-![Main Dashboard](https://i.postimg.cc/mDmycJ9y/dash.png)
-
-### Threat Detection
-![Threats](https://i.postimg.cc/PxSQL9D3/thret.png)
-
-### System Monitor
-![Monitor]
-
-</div>
-
----
 
 ## 🚀 Installation
 
