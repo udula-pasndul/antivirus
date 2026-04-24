@@ -68,7 +68,7 @@
 <div align="center">
 
 ### Main Dashboard
-![Dashboard](https://postimg.cc/k6tbzjf2)
+![Dashboard]([url=https://postimg.cc/k6tbzjf2][img]https://i.postimg.cc/k6tbzjf2/dash.png[/img][/url])
 
 ### Threat Detection
 ![Threats](https://i.postimg.cc/PxSQL9D3/thret.png)
