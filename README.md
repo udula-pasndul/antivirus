@@ -68,13 +68,13 @@
 <div align="center">
 
 ### Main Dashboard
-![Dashboard](https://via.placeholder.com/800x450?text=Main+Dashboard+View)
+![Dashboard](https://i.postimg.cc/mDmycJ9y/dash.png)
 
 ### Threat Detection
-![Threats](https://via.placeholder.com/800x450?text=Threat+Detection+View)
+![Threats](https://i.postimg.cc/PxSQL9D3/thret.png)
 
 ### System Monitor
-![Monitor](https://via.placeholder.com/800x450?text=System+Monitor)
+![Monitor]
 
 </div>
 
